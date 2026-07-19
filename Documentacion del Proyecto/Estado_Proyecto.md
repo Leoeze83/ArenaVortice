@@ -84,7 +84,15 @@ Documento vivo que refleja el estado actual del proyecto. Actualizado por el Gam
   - [x] Mostrar equipo ganador
   - [ ] XP y monedas ganadas (placeholder)
 
-### Fase 4 — Progresión y matchmaking
+### Fase 5 — Diseño y Arte del Mapa ✅
+- [x] **Remodelación del entorno**
+  - [x] Arte final del mapa (texturas, muros, terreno)
+  - [x] Diseño de altares y campamentos base
+  - [x] Transformación de obstáculos en Ruinas Ancestrales
+- [x] **Iluminación y Atmósfera**
+  - [x] Configuración de Atardecer Místico, ColorCorrection y Bloom
+
+### Fase 6 — Progresión y Matchmaking
 - [ ] **Sistema de nivel de cuenta**
   - [ ] XP ganada por partida (más XP por ganar)
   - [ ] Niveles con barra de progreso
@@ -95,7 +103,7 @@ Documento vivo que refleja el estado actual del proyecto. Actualizado por el Gam
   - [ ] Lobby / salas manuales (MVP)
   - [ ] Matchmaking automático (si es viable)
 
-### Fase 5 — Monetización
+### Fase 7 — Monetización
 - [ ] **Gemas (moneda dura)**
   - [ ] DevProducts para compra de Gemas con Robux
   - [ ] Tienda cosmética con Gemas
@@ -104,10 +112,9 @@ Documento vivo que refleja el estado actual del proyecto. Actualizado por el Gam
   - [ ] Desbloqueo directo de personajes con Robux
 - [ ] **Verificar que nada pago da ventaja competitiva**
 
-### Fase 6 — Pulido, testing y lanzamiento
-- [ ] **Reemplazo de arte placeholder**
-  - [ ] Arte final del mapa (texturas, iluminación)
-  - [ ] Modelos/skins de personajes
+### Fase 8 — Pulido, testing y lanzamiento
+- [ ] **Personajes y Efectos**
+  - [ ] Modelos/skins definitivos de personajes
   - [ ] Efectos visuales de habilidades
 - [ ] **Audio**
   - [ ] Música de fondo (selección + combate)

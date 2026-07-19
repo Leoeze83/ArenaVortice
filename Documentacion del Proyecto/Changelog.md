@@ -35,9 +35,15 @@ Actualizado por el Game Director (Antigravity) después de cada sesión de traba
   - Rediseño estético total del HUD (MatchHUD), haciéndolo moderno e inmersivo (reloj aislado, puntuación en esquinas con gradientes).
   - Efectos visuales de Núcleo mejorados (Material sólido neón vibrante, y luz ajustada).
   - Solución de bugs de red (Infinite yield y colisiones neutrales del Dummy).
+- **Fase 5 (Diseño y Arte del Mapa) completada**:
+  - Remodelación topográfica: Sustitución de piezas greybox por entorno con montañas, piedras y follaje.
+  - Altar Central: Estructura ceremonial con anillos de mármol y obeliscos con fuego mágico.
+  - Campamentos Temáticos: Bases asimétricas fortificadas con energía mágica representativa de cada equipo (Rojo y Azul).
+  - Ruinas Ancestrales: Coberturas transformadas en pilares de piedra quebrados.
+  - Iluminación Global: Integración de Atardecer Místico, ColorCorrection (saturación y contraste), Atmósfera, y resplandor inmersivo.
 
 ### ⏳ En progreso
-- A la espera de iniciar Fase 4 (Progresión o Decoración de mapa).
+- A la espera de iniciar Fase 6 (Audio, testeo y balance).
 
 ### 📋 Decisiones tomadas
 | Decisión | Detalle |
