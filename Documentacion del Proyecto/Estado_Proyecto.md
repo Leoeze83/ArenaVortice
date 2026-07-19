@@ -34,30 +34,30 @@ Documento vivo que refleja el estado actual del proyecto. Actualizado por el Gam
 - [x] Definir sistema de progresión y monetización
 - [x] Documentar GDD completo
 
-### Fase 2 — Prototipo del combate core
-- [ ] **Mapa "El Cráter Sagrado"**
-  - [ ] Construir arena circular simétrica (bloques grises, sin arte final)
-  - [ ] Crear las 2 bases opuestas con SpawnLocations por equipo
-  - [ ] Colocar 4 zonas de cobertura (rocas/pilares) simétricas
-  - [ ] Marcar punto central del Núcleo de Energía
-- [ ] **Sistema de movimiento**
-  - [ ] Movimiento top-down (WASD / joystick mobile)
-  - [ ] Configurar cámara top-down fija
-- [ ] **Sistema de combate básico**
-  - [ ] Ataque básico cuerpo a cuerpo (Grom, Kael)
-  - [ ] Ataque básico a distancia / proyectil (Yssa)
-  - [ ] Sistema de vida y daño
-  - [ ] Indicador visual de daño recibido
-- [ ] **Sistema de muerte y respawn**
-  - [ ] Muerte al llegar a 0 de vida
-  - [ ] Temporizador de respawn (5 segundos)
-  - [ ] Respawn en base del equipo
-- [ ] **Sistema de equipos**
-  - [ ] Asignación de jugadores a 2 equipos de 3
-  - [ ] Colores de equipo diferenciados
-- [ ] **Testeo del combate core**
-  - [ ] Verificar que no hay errores en consola
-  - [ ] Probar "feel" del combate en Play mode
+### Fase 2 — Prototipo del combate core ✅
+- [x] **Mapa "El Cráter Sagrado"**
+  - [x] Construir arena circular simétrica (bloques grises, sin arte final)
+  - [x] Crear las 2 bases opuestas con SpawnLocations por equipo
+  - [x] Colocar 4 zonas de cobertura (rocas/pilares) simétricas
+  - [x] Marcar punto central del Núcleo de Energía
+- [x] **Sistema de movimiento**
+  - [x] Movimiento top-down (WASD / joystick mobile)
+  - [x] Configurar cámara top-down fija
+- [x] **Sistema de combate básico**
+  - [x] Ataque básico cuerpo a cuerpo (Grom, Kael)
+  - [x] Ataque básico a distancia / proyectil (Yssa)
+  - [x] Sistema de vida y daño
+  - [x] Indicador visual de daño recibido
+- [x] **Sistema de muerte y respawn**
+  - [x] Muerte al llegar a 0 de vida
+  - [x] Temporizador de respawn (5 segundos)
+  - [x] Respawn en base del equipo
+- [x] **Sistema de equipos**
+  - [x] Asignación de jugadores a 2 equipos (Azul y Rojo)
+  - [x] Colores de equipo diferenciados
+- [x] **Testeo del combate core**
+  - [x] Verificar que no hay errores en consola
+  - [x] Probar "feel" del combate en Play mode
 
 ### Fase 3 — Habilidades especiales + UI
 - [ ] **Sistema de carga de Súper Habilidad**

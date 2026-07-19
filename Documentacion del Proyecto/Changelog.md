@@ -15,10 +15,16 @@ Actualizado por el Game Director (Antigravity) después de cada sesión de traba
 - **Fase 0 (Fundamentos) completada**:
   - Ejercicio 1 (Bloque Mágico) ✅
   - Ejercicio 2 (Contador Puntos UI) ✅
-  - Ejercicio 3 (Chat Batalla Cliente-Servidor) ✅
+- Primer push del proyecto a GitHub completado exitosamente: https://github.com/Leoeze83/ArenaVortice
+- **Fase 2 (Prototipo del combate core) completada**:
+  - Mapa gris (greybox) "El Cráter Sagrado".
+  - Cámara Top-Down fija con sistema de Transparencia (Raycast).
+  - Sistema de combate funcional (Hitbox melee, Proyectiles, Feedback Visual).
+  - Sistema de Equipos (Rojo/Azul) con Spawns dedicados.
+  - Sistema de Muerte y Respawn (5s).
 
 ### ⏳ En progreso
-- Aprobación final de la Fase 0 y push a GitHub para avanzar a la Fase 2.
+- A la espera de iniciar Fase 3 (Habilidades especiales + UI).
 
 ### 📋 Decisiones tomadas
 | Decisión | Detalle |
