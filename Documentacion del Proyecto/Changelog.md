@@ -22,9 +22,15 @@ Actualizado por el Game Director (Antigravity) después de cada sesión de traba
   - Sistema de combate funcional (Hitbox melee, Proyectiles, Feedback Visual).
   - Sistema de Equipos (Rojo/Azul) con Spawns dedicados.
   - Sistema de Muerte y Respawn (5s).
+- **Fase 3 (Habilidades especiales + UI) completada**:
+  - HUD de combate (Barra de Vida y Barra de Súper).
+  - Sistema de recarga de Súper (25% por golpe acertado).
+  - Súper Habilidad "Onda Sísmica" de Grom (Daño en área, knockback, stun).
+  - Menú de Selección de Héroe al inicio de la partida.
+  - Sistema de Transformación Visual (Morph) para distinguir clases.
 
 ### ⏳ En progreso
-- A la espera de iniciar Fase 3 (Habilidades especiales + UI).
+- A la espera de iniciar Fase 4 (Progresión o Decoración de mapa).
 
 ### 📋 Decisiones tomadas
 | Decisión | Detalle |

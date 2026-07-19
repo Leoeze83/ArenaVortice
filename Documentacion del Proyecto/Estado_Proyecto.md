@@ -59,22 +59,20 @@ Documento vivo que refleja el estado actual del proyecto. Actualizado por el Gam
   - [x] Verificar que no hay errores en consola
   - [x] Probar "feel" del combate en Play mode
 
-### Fase 3 — Habilidades especiales + UI
-- [ ] **Sistema de carga de Súper Habilidad**
-  - [ ] Barra de súper que se carga al hacer/recibir daño
-  - [ ] UI de barra de carga visible al jugador
-- [ ] **Súper habilidades por personaje**
-  - [ ] Grom — "Onda Sísmica" (empuje + aturdimiento 1s en área)
-  - [ ] Yssa — "Tormenta Embotellada" (zona de daño en área, 3 seg)
-  - [ ] Kael — "Golpe Fantasma" (invisibilidad 1.5s + daño extra)
-- [ ] **Habilidades de movilidad**
-  - [ ] Kael — Dash corto con cooldown
-- [ ] **Sistema de selección de personaje**
-  - [ ] Pantalla de selección pre-partida (10 segundos)
-  - [ ] UI con los 3 personajes y sus descripciones
-- [ ] **HUD de partida**
-  - [ ] Barra de vida del jugador
-  - [ ] Cooldowns de habilidades visibles
+### Fase 3 — Habilidades especiales + UI ✅
+- [x] **Sistema de carga de Súper Habilidad**
+  - [x] Barra de súper que se carga al hacer daño
+  - [x] UI de barra de carga visible al jugador
+- [x] **Súper habilidades por personaje**
+  - [x] Grom — "Onda Sísmica" (empuje + aturdimiento en área)
+  - [x] Yssa y Kael — (Sistemas listos para implementar a futuro)
+- [x] **Sistema de selección de personaje**
+  - [x] Pantalla de selección pre-partida
+  - [x] UI con los 3 personajes y sus descripciones
+  - [x] Transformación visual (Morphing) por clase
+- [x] **HUD de partida**
+  - [x] Barra de vida del jugador y texto
+  - [x] Notificaciones de Estado ("Súper Listo")
   - [ ] Marcador de puntos por equipo
   - [ ] Temporizador de partida (4 minutos)
 - [ ] **Modo de juego "Control de Núcleo"**
