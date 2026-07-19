@@ -28,6 +28,13 @@ Actualizado por el Game Director (Antigravity) después de cada sesión de traba
   - Súper Habilidad "Onda Sísmica" de Grom (Daño en área, knockback, stun).
   - Menú de Selección de Héroe al inicio de la partida.
   - Sistema de Transformación Visual (Morph) para distinguir clases.
+- **Fase 4 (Modo Control de Núcleo y UX/UI) completada**:
+  - Implementación de aparición dinámica de núcleo en 5 posiciones aleatorias.
+  - Lógica de captura por proximidad 2D con barra de progreso progresiva.
+  - Lógica de pausa por disputa entre equipos.
+  - Rediseño estético total del HUD (MatchHUD), haciéndolo moderno e inmersivo (reloj aislado, puntuación en esquinas con gradientes).
+  - Efectos visuales de Núcleo mejorados (Material sólido neón vibrante, y luz ajustada).
+  - Solución de bugs de red (Infinite yield y colisiones neutrales del Dummy).
 
 ### ⏳ En progreso
 - A la espera de iniciar Fase 4 (Progresión o Decoración de mapa).

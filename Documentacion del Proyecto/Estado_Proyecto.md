@@ -73,15 +73,15 @@ Documento vivo que refleja el estado actual del proyecto. Actualizado por el Gam
 - [x] **HUD de partida**
   - [x] Barra de vida del jugador y texto
   - [x] Notificaciones de Estado ("Súper Listo")
-  - [ ] Marcador de puntos por equipo
-  - [ ] Temporizador de partida (4 minutos)
-- [ ] **Modo de juego "Control de Núcleo"**
-  - [ ] Núcleo de Energía aparece cada 45 segundos
-  - [ ] Mecánica de captura (10 seg parado cerca sin interrupción)
-  - [ ] Sistema de puntaje (primero en 3 puntos gana)
-  - [ ] Fin de partida por puntos o por tiempo
-- [ ] **Pantalla de resultados**
-  - [ ] Mostrar equipo ganador
+  - [x] Marcador de puntos por equipo
+  - [x] Temporizador de partida (4 minutos)
+- [x] **Modo de juego "Control de Núcleo"**
+  - [x] Núcleo de Energía aparece cada 45 segundos
+  - [x] Mecánica de captura (10 seg parado cerca sin interrupción)
+  - [x] Sistema de puntaje (primero en 3 puntos gana)
+  - [x] Fin de partida por puntos o por tiempo
+- [x] **Pantalla de resultados**
+  - [x] Mostrar equipo ganador
   - [ ] XP y monedas ganadas (placeholder)
 
 ### Fase 4 — Progresión y matchmaking
