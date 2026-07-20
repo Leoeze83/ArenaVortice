@@ -103,14 +103,14 @@ Documento vivo que refleja el estado actual del proyecto. Actualizado por el Gam
   - [x] Lobby / salas manuales (MVP)
   - [x] Matchmaking automático (si es viable)
 
-### Fase 7 — Monetización
-- [ ] **Gemas (moneda dura)**
-  - [ ] DevProducts para compra de Gemas con Robux
-  - [ ] Tienda cosmética con Gemas
-- [ ] **Gamepasses**
-  - [ ] Skins de personajes (cosmético puro)
-  - [ ] Desbloqueo directo de personajes con Robux
-- [ ] **Verificar que nada pago da ventaja competitiva**
+### Fase 7 — Monetización ✅
+- [x] **Gemas (moneda dura)**
+  - [x] DevProducts para compra de Gemas con Robux
+  - [x] Tienda cosmética con Gemas
+- [x] **Cosméticos y Pases**
+  - [x] Skins de personajes (cosmético puro)
+  - [x] Desbloqueo directo de personajes con Robux (por ahora, con Gemas)
+- [x] **Verificar que nada pago da ventaja competitiva**
 
 ### Fase 8 — Pulido, testing y lanzamiento
 - [ ] **Personajes y Efectos**

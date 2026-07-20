@@ -48,8 +48,15 @@ Actualizado por el Game Director (Antigravity) después de cada sesión de traba
   - Repartición de recompensas automáticas al finalizar la partida según equipo ganador/perdedor.
   - UI de Tienda de Personajes funcional que descuenta monedas y guarda inventario.
 
+- **Fase 7 (Monetización) completada**:
+  - Implementación de `MonetizacionManager` y uso de `MarketplaceService` para compras de Gemas (moneda dura).
+  - Añadido de pestañas (Héroes, Skins, Gemas) a la Tienda Premium.
+  - Guardado de Gemas y Skins en `DataStoreManager` respetando jugadores antiguos.
+  - Creación del cosmético "Grom Dorado" y "Yssa Sombría".
+  - Política "No Pay-To-Win" verificada: Las skins solo alteran materiales y colores en `GestorClases`, sin afectar estadísticas.
+
 ### ⏳ En progreso
-- A la espera de iniciar Fase 7 (Monetización o Pulido Final).
+- A la espera de iniciar Fase 8 (Arte Definitivo, Pulido y Lanzamiento).
 
 ### 📋 Decisiones tomadas
 | Decisión | Detalle |
