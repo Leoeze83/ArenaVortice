@@ -41,9 +41,15 @@ Actualizado por el Game Director (Antigravity) después de cada sesión de traba
   - Campamentos Temáticos: Bases asimétricas fortificadas con energía mágica representativa de cada equipo (Rojo y Azul).
   - Ruinas Ancestrales: Coberturas transformadas en pilares de piedra quebrados.
   - Iluminación Global: Integración de Atardecer Místico, ColorCorrection (saturación y contraste), Atmósfera, y resplandor inmersivo.
+- **Fase 6 (Progresión, Tienda y Sistema de Salas) completada**:
+  - Implementación de DataStoreManager para guardar XP, Nivel y Monedas en la base de datos de Roblox.
+  - Creación de SalaLobby (Plataforma flotante en el cielo) con LobbyHUD interactivo.
+  - Máquina de estados en LobbyManager y GameManager para ciclo completo de partida (Lobby -> Selección -> Partida -> Resultados -> Lobby).
+  - Repartición de recompensas automáticas al finalizar la partida según equipo ganador/perdedor.
+  - UI de Tienda de Personajes funcional que descuenta monedas y guarda inventario.
 
 ### ⏳ En progreso
-- A la espera de iniciar Fase 6 (Audio, testeo y balance).
+- A la espera de iniciar Fase 7 (Monetización o Pulido Final).
 
 ### 📋 Decisiones tomadas
 | Decisión | Detalle |

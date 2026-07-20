@@ -92,16 +92,16 @@ Documento vivo que refleja el estado actual del proyecto. Actualizado por el Gam
 - [x] **Iluminación y Atmósfera**
   - [x] Configuración de Atardecer Místico, ColorCorrection y Bloom
 
-### Fase 6 — Progresión y Matchmaking
-- [ ] **Sistema de nivel de cuenta**
-  - [ ] XP ganada por partida (más XP por ganar)
-  - [ ] Niveles con barra de progreso
-- [ ] **Sistema de monedas (moneda blanda)**
-  - [ ] Monedas ganadas por partida
-  - [ ] Desbloqueo de personajes con monedas
-- [ ] **Matchmaking básico**
-  - [ ] Lobby / salas manuales (MVP)
-  - [ ] Matchmaking automático (si es viable)
+### Fase 6 — Progresión y Matchmaking ✅
+- [x] **Sistema de nivel de cuenta**
+  - [x] XP ganada por partida (más XP por ganar)
+  - [x] Niveles con barra de progreso
+- [x] **Sistema de monedas (moneda blanda)**
+  - [x] Monedas ganadas por partida
+  - [x] Desbloqueo de personajes con monedas
+- [x] **Matchmaking básico**
+  - [x] Lobby / salas manuales (MVP)
+  - [x] Matchmaking automático (si es viable)
 
 ### Fase 7 — Monetización
 - [ ] **Gemas (moneda dura)**
@@ -133,7 +133,7 @@ Documento vivo que refleja el estado actual del proyecto. Actualizado por el Gam
 ## Conexión MCP (Antigravity ↔ Roblox Studio)
 - **Estado:** ✅ Conectado y verificado (2026-07-18)
 - **Usuario Roblox:** vaderloopLEO
-- **Proyecto activo:** Place1 (proyecto vacío con Baseplate + SpawnLocation)
+- **Proyecto activo:** ArenaVortice (proyecto vacío con Baseplate + SpawnLocation)
 
 ---
 
