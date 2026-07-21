@@ -104,5 +104,13 @@ Antes de finalizar una sesión de trabajo, verifica que:
 
 ---
 
+## 11. Estructura de Versionado
+
+- Cuando se alcance una versión final (por ejemplo, MVP, 1.0, 2.0, etc.), se debe agrupar toda la documentación correspondiente.
+- Crea una subcarpeta con el nombre de la versión (ej. `Vers. 2.0`) dentro de `Doc_inicial`, `Documentacion del Proyecto`, y `Documentacion del Proyecto/Planes_Aprobados`.
+- Mueve los documentos de diseño, estado y planes pertenecientes a dicha etapa dentro de esas carpetas de versión para mantener un historial organizado.
+
+---
+
 **Versión 2.0**
-**Última revisión 2026-07-20**
+**Última revisión 2026-07-21**
