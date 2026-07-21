@@ -6,11 +6,7 @@
 
 ---
 
-## 0. Una aclaración importante antes de empezar
-
-No tengo conexión MCP a tu sesión de Roblox Studio (esa conexión es propia de Antigravity, el agente con el que venís trabajando dentro del IDE). Yo trabajo solo con la documentación que subiste — no puedo abrir tu `.rbxl`, correr Play, ni tocar scripts en vivo. Lo que hice fue una auditoría documental completa y te dejo, para cada punto pendiente, el prompt exacto y/o el código Luau listo para pegar, para que Antigravity (o vos directamente en Studio) lo implemente y lo verifique in situ.
-
-**Hallazgo central de la auditoría:** tu `Estado_Proyecto.md` y `Changelog.md` dicen "VERSIÓN 1.0 ALCANZADA" con las Fases 6, 7 y 8 completadas al 100%. Pero leyendo los *Walkthroughs* (que son más detallados y honestos que el checklist resumen) encontré que **no es así** — tenías razón en pedirme que las termine. Esto es exactamente el tipo de riesgo que tu propio `AGENTS.md` advierte en la sección 9 ("No dependas únicamente de la IA") y en la sección 7 de gestión de errores: un checklist se marcó ✅ sin testing cruzado real. No es un reproche, es información útil: a partir de ahora conviene que el checklist solo se marque ✅ después de que vos lo probaste en Play, no cuando el agente termina de escribir el código.
+## 0.  *Hallazgo central de la auditoría:** tu `Estado_Proyecto.md` y `Changelog.md` dicen "VERSIÓN 1.0 ALCANZADA" con las Fases 6, 7 y 8 completadas al 100%. Pero leyendo los *Walkthroughs* (que son más detallados y honestos que el checklist resumen) encontré que **no es así** — tenías razón en pedirme que las termine. Esto es exactamente el tipo de riesgo que tu propio `AGENTS.md` advierte en la sección 9 ("No dependas únicamente de la IA") y en la sección 7 de gestión de errores: un checklist se marcó ✅ sin testing cruzado real. No es un reproche, es información útil: a partir de ahora conviene que el checklist solo se marque ✅ después de que vos lo probaste en Play, no cuando el agente termina de escribir el código.
 
 ---
 
