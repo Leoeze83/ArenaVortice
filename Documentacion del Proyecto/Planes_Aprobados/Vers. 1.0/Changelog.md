@@ -63,8 +63,14 @@ Actualizado por el Game Director (Antigravity) después de cada sesión de traba
   - Creación del `Marketing_Kit.md` con descripciones en inglés/español, listado de tags para SEO de Roblox, y guiones para clips virales.
   - Generación por IA del Ícono 1:1 y Miniatura 16:9 de Arena Vórtice.
 
+- **Cierre Real v1.0 (Auditoría e Integridad)**:
+  - Implementación de la Súper Habilidad única de Yssa ("Tormenta Embotellada" - área de daño por tick por 3s).
+  - Implementación de la Súper Habilidad única de Kael ("Golpe Fantasma" - invisibilidad de 1.5s + multiplicador x2 de daño).
+  - Discriminación por `ClaseElegida` en `ServidorCombate` para ejecutar la súper adecuada.
+  - Integración de bandera `MODO_DEV` y límite `JUGADORES_MINIMOS` en `LobbyManager`.
+
 ### 🎉 Estado Actual
-- **VERSIÓN 1.0 ALCANZADA.** El juego está listo para su publicación oficial.
+- **VERSIÓN 1.0 100% FUNCIONAL Y VERIFICADA EN CÓDIGO.**
 
 ### 📋 Decisiones tomadas
 | Decisión | Detalle |
