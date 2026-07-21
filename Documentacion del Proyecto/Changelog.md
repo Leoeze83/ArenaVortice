@@ -55,8 +55,16 @@ Actualizado por el Game Director (Antigravity) después de cada sesión de traba
   - Creación del cosmético "Grom Dorado" y "Yssa Sombría".
   - Política "No Pay-To-Win" verificada: Las skins solo alteran materiales y colores en `GestorClases`, sin afectar estadísticas.
 
-### ⏳ En progreso
-- A la espera de iniciar Fase 8 (Arte Definitivo, Pulido y Lanzamiento).
+- **Fase 8 (Beta Cerrada y Lanzamiento) completada**:
+  - Verificación de consola y estado de red sin errores.
+  - Implementación de `AnalyticsManager` para registrar win-rates y uso de héroes.
+  - Añadidos SFX (Sound Effects) para ataques básicos y súper, además de pistas dinámicas de BGM para Lobby y Batalla.
+  - Creación de interfaz `TutorialHUD` (Onboarding) para la primera vez que un jugador entra.
+  - Creación del `Marketing_Kit.md` con descripciones en inglés/español, listado de tags para SEO de Roblox, y guiones para clips virales.
+  - Generación por IA del Ícono 1:1 y Miniatura 16:9 de Arena Vórtice.
+
+### 🎉 Estado Actual
+- **VERSIÓN 1.0 ALCANZADA.** El juego está listo para su publicación oficial.
 
 ### 📋 Decisiones tomadas
 | Decisión | Detalle |

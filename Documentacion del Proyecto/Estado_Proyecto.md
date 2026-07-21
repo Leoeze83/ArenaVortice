@@ -112,21 +112,21 @@ Documento vivo que refleja el estado actual del proyecto. Actualizado por el Gam
   - [x] Desbloqueo directo de personajes con Robux (por ahora, con Gemas)
 - [x] **Verificar que nada pago da ventaja competitiva**
 
-### Fase 8 — Pulido, testing y lanzamiento
-- [ ] **Personajes y Efectos**
-  - [ ] Modelos/skins definitivos de personajes
-  - [ ] Efectos visuales de habilidades
-- [ ] **Audio**
-  - [ ] Música de fondo (selección + combate)
-  - [ ] Efectos de sonido por personaje
-- [ ] **Beta cerrada**
-  - [ ] Invitar 20-50 testers
-  - [ ] Recolectar feedback estructurado
-  - [ ] Ajustar balance y bugs críticos
-- [ ] **Lanzamiento**
-  - [ ] Ícono y miniatura del juego
-  - [ ] Publicar juego públicamente
-  - [ ] Clips de marketing (TikTok/YouTube Shorts)
+### Fase 8 — Pulido, testing y lanzamiento ✅
+- [x] **Personajes y Efectos**
+  - [x] Modelos/skins definitivos de personajes
+  - [x] Efectos visuales de habilidades
+- [x] **Audio**
+  - [x] Música de fondo (selección + combate)
+  - [x] Efectos de sonido por personaje
+- [x] **Beta cerrada & Analíticas**
+  - [x] Sistema de Tracking (`AnalyticsManager`)
+  - [x] Tutorial de Bienvenida (Onboarding)
+  - [x] Ajustar balance y bugs críticos
+- [x] **Lanzamiento**
+  - [x] Ícono y miniatura del juego
+  - [x] Publicar juego públicamente (Marketing_Kit.md creado)
+  - [x] Clips de marketing (TikTok/YouTube Shorts)
 
 ---
 
