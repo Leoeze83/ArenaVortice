@@ -1,10 +1,10 @@
-# Plan de Implementación: Versión 1.2 — Pulido de Excelencia & 4º Héroe 🔥
+# Plan de Implementación: Versión 1.1 — Pulido de Excelencia & 4º Héroe 🔥
 
-Alineado estrictamente con el documento `ArenaVortice_Auditoria_y_Roadmap.md` (Sección 4.2), la **Versión 1.2** transformará *Arena Vórtice* en una experiencia de combate táctico de nivel premium (al estilo *Blade Ball* o *Brawl Stars*).
+Alineado estrictamente con el documento `ArenaVortice_Auditoria_y_Roadmap.md`, la **Versión 1.1** transformará *Arena Vórtice* en una experiencia de combate táctico de nivel premium (al estilo *Blade Ball* o *Brawl Stars*).
 
 ---
 
-## 🎯 Objetivos de la Versión 1.2
+## 🎯 Objetivos de la Versión 1.1
 
 ### 1. Visuales de Impacto (VFX) Específicos por Héroe
 - **Grom (Tanque):** Emisión de partículas de rocas, polvo y grietas en tierra al golpear Melee.

@@ -1,6 +1,6 @@
-# Walkthrough: Versión 1.2 — Pulido de Excelencia & 4º Héroe (Pyra) 🔥
+# Walkthrough: Versión 1.1 — Pulido de Excelencia & 4º Héroe (Pyra) 🔥
 
-Este walkthrough documenta los avances implementados en la **Versión 1.2** para elevar el Game Feel de Arena Vórtice y ampliar el catálogo de héroes.
+Este walkthrough documenta los avances implementados en la **Versión 1.1** para elevar el Game Feel de Arena Vórtice y ampliar el catálogo de héroes.
 
 ---
 
@@ -25,7 +25,7 @@ Este walkthrough documenta los avances implementados en la **Versión 1.2** para
 
 ---
 
-## 🧪 Pasos para Verificar la Versión 1.2 en Roblox Studio
+## 🧪 Pasos para Verificar la Versión 1.1 en Roblox Studio
 
 1. Inicia **Play (F5)** en Roblox Studio.
 2. Abre la **Tienda** en el Lobby:

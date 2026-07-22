@@ -104,13 +104,17 @@ Antes de finalizar una sesión de trabajo, verifica que:
 
 ---
 
-## 11. Estructura de Versionado
+## 11. Estructura de Versionado y Correlación Numérica
 
-- Cuando se alcance una versión final (por ejemplo, MVP, 1.0, 2.0, etc.), se debe agrupar toda la documentación correspondiente.
-- Crea una subcarpeta con el nombre de la versión (ej. `Vers. 2.0`) dentro de `Doc_inicial`, `Documentacion del Proyecto`, y `Documentacion del Proyecto/Planes_Aprobados`.
-- Mueve los documentos de diseño, estado y planes pertenecientes a dicha etapa dentro de esas carpetas de versión para mantener un historial organizado.
+- **Correlación Numérica Estricta:** Las versiones deben avanzar de forma correlativa secuencial según el desarrollo del MVP y sus iteraciones:
+  - `Vers. 1.0`: MVP Core inicial (3 héroes, 1 mapa, Control de Núcleo, Economía y Lobby).
+  - `Vers. 1.1`: Pulido Game Feel (VFX por clase, Screen Shake, Audio Pitch) y 4º Héroe (Pyra).
+  - `Vers. 1.2`: 2º Mapa (Las Minas de Cristal), Ranked 3v3 y Pase de Temporada.
+- **Creación Obligatoria de Carpetas de Versión:**
+  - Al completar la implementación de cualquier versión (ej. `Vers. 1.1`), el agente **debe crear inmediatamente** las subcarpetas con el nombre de dicha versión (ej. `Vers. 1.1`) dentro de `Documentacion del Proyecto/Planes_Aprobados`, `Documentacion del Proyecto` y `Doc_inicial`.
+  - Todos los planes (`Plan_*.md`), walkthroughs (`Walkthrough_*.md`), changelogs y documentos generados durante esa versión deben ser agrupados dentro de sus respectivas subcarpetas `Vers. X.X`.
 
 ---
 
-**Versión 2.0**
-**Última revisión 2026-07-21**
+**Versión 2.1**
+**Última revisión 2026-07-22**
