@@ -52,9 +52,9 @@ Estas reglas son **mandatorias** y el agente Antigravity debe consultarlas y res
 - **Cambios mayores (múltiples sistemas o reestructuraciones):**
   - **Siempre** pide confirmación explícita antes de ejecutarlos.
   - Explica claramente qué archivos/objetos vas a tocar y el impacto esperado.
-- **GitHub:**
-  - Al concluir cada fase (o hito importante) y **con la aprobación del usuario**, realiza un commit con un mensaje descriptivo y haz push al repositorio remoto.
-  - El mensaje del commit debe seguir el formato: `[Fase X] Descripción breve de lo completado`.
+- **REGLA DE ORO — GitHub (Aprobación Obligatoria):**
+  - **NUNCA** ejecutar `git push` ni subir cambios al repositorio remoto sin haber solicitado primero la **aprobación explícita del usuario** y haber recibido su confirmación.
+  - El mensaje del commit debe seguir el formato: `[Versión X.X] Descripción breve de lo completado`.
 
 ---
 
@@ -110,11 +110,10 @@ Antes de finalizar una sesión de trabajo, verifica que:
   - `Vers. 1.0`: MVP Core inicial (3 héroes, 1 mapa, Control de Núcleo, Economía y Lobby).
   - `Vers. 1.1`: Pulido Game Feel (VFX por clase, Screen Shake, Audio Pitch) y 4º Héroe (Pyra).
   - `Vers. 1.2`: 2º Mapa (Las Minas de Cristal), Ranked 3v3 y Pase de Temporada.
-- **Creación Obligatoria de Carpetas de Versión:**
-  - Al completar la implementación de cualquier versión (ej. `Vers. 1.1`), el agente **debe crear inmediatamente** las subcarpetas con el nombre de dicha versión (ej. `Vers. 1.1`) dentro de `Documentacion del Proyecto/Planes_Aprobados`, `Documentacion del Proyecto` y `Doc_inicial`.
-  - Todos los planes (`Plan_*.md`), walkthroughs (`Walkthrough_*.md`), changelogs y documentos generados durante esa versión deben ser agrupados dentro de sus respectivas subcarpetas `Vers. X.X`.
+- **Ubicación de Documentación por Versión:**
+  - Todos los planes (`Plan_*.md`), walkthroughs (`Walkthrough_*.md`), `Changelog.md` y `Estado_Proyecto.md` de una versión **deben guardarse dentro de la carpeta que contiene los planes de dicha versión**: `Documentacion del Proyecto/Planes_Aprobados/Vers. X.X/`.
 
 ---
 
-**Versión 2.1**
+**Versión 2.2**
 **Última revisión 2026-07-22**
