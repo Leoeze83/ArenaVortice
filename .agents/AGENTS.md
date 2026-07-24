@@ -110,10 +110,14 @@ Antes de finalizar una sesión de trabajo, verifica que:
   - `Vers. 1.0`: MVP Core inicial (3 héroes, 1 mapa, Control de Núcleo, Economía y Lobby).
   - `Vers. 1.1`: Pulido Game Feel (VFX por clase, Screen Shake, Audio Pitch) y 4º Héroe (Pyra).
   - `Vers. 1.2`: 2º Mapa (Las Minas de Cristal), Ranked 3v3 y Pase de Temporada.
+  - `Vers. 1.3`: Cierre de Integridad (bugs 2.1-2.5 de la auditoría real del .rbxl).
+  - `Vers. 1.4`: Ranked y Season Pass funcional (rotación de mapa real, lógica de Season Pass, rango visible).
+  - `Vers. 1.5`: Pulido Final (hit-stop diferenciado, SFX Pyra, anti-cheat WalkSpeed, Rewarded Ads).
 - **Ubicación de Documentación por Versión:**
   - Todos los planes (`Plan_*.md`), walkthroughs (`Walkthrough_*.md`), `Changelog.md` y `Estado_Proyecto.md` de una versión **deben guardarse dentro de la carpeta que contiene los planes de dicha versión**: `Documentacion del Proyecto/Planes_Aprobados/Vers. X.X/`.
+- **Nomenclatura de archivos:** Usar `Version` (sin tilde) en nombres de archivos para evitar problemas de encoding. Ejemplo: `Plan_Version1.3_Cierre_Integridad.md`.
 
 ---
 
-**Versión 2.2**
-**Última revisión 2026-07-22**
+**Versión 2.3**
+**Última revisión 2026-07-24**

@@ -1,6 +1,6 @@
 # 📊 Estado del Proyecto: Arena Vórtice (Versión 1.1)
 
-**Estado General:** ✅ Versión 1.1 Completada al 100% y Respaldada en GitHub.
+**Estado General:** ⚠️ Versión 1.1 Implementada — con 1 bug pendiente (ver v1.3).
 
 ---
 
@@ -19,14 +19,12 @@
   - [x] Ataque básico a distancia
   - [x] Súper *Infierno Vorticista* (Anillo de fuego)
   - [x] Integración en Tienda y Selección de Héroe
-  - [x] Morph visual con aura de llamas en `GestorClases`
+  - [ ] ⚠️ Morph visual con aura de llamas en `GestorClases` — **Bug 2.3: no existe bloque `elseif "Pyra"` en el código real** → Fix en v1.3
 
 ---
 
-## 🚀 Próximas Versiones (Roadmap)
+## 🚀 Próximas Versiones
 
-### Versión 1.2 — "2º Mapa & Modo Competitivo (Ranked 3v3)"
-- [ ] **2º Mapa ("Las Minas de Cristal"):** Entorno con desniveles, puentes y coberturas dinámicas.
-- [ ] **Sistema de Rangos / Liga (Ranked 3v3):** Clasificación por ELO/Puntos (Bronce a Leyenda).
-- [ ] **Pase de Temporada (Battle Pass):** Nivelación con recompensas gratuitas y premium (Gemas).
-- [ ] **Rewarded Video Ads de Roblox:** Anuncios de video opcionales para monedas/gemas.
+- **v1.3:** Cierre de Integridad (arreglar todos los bugs de la auditoría).
+- **v1.4:** Ranked y Season Pass con lógica real.
+- **v1.5:** Pulido Final Pre-Lanzamiento.
