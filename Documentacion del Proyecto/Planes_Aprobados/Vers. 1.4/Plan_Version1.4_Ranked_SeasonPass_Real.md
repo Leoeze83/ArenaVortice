@@ -101,6 +101,28 @@ La auditoría del `.rbxl` (Bug 2.6) reveló que el 2º Mapa y el Season Pass exi
 
 ---
 
+### 🟠 Tarea 5 — Sistema Anti‑AFK
+
+**Scripts:** `ServerScriptService.AntiAFK` + `StarterGui.AntiAFKHUD`
+**Problema:** Jugadores inactivos permanecen en la partida sin penalizar, lo que afecta la competitividad.
+**Implementación:**
+- Detectar inactividad del jugador (sin movimiento ni acciones) > 30 s.
+- Mostrar advertencia en HUD y comenzar conteo regresivo.
+- Si persiste, expulsar al jugador del match y devolverlo al lobby.
+- Guardar estadística `AFKCount` en DataStore para posibles penalizaciones de rango.
+
+### 🟠 Tarea 6 — Obligación a agarrar tótems
+
+**Scripts:** `StarterGui.TotemCapture` (LocalScript) + `ServerScriptService.TotemManager`
+**Problema:** Los jugadores pueden evitar capturar los tótems, rompiendo la mecánica de objetivo.
+**Implementación:**
+- Cada partida genera 3 tótems en posiciones aleatorias.
+- Si un jugador se aleja > 10 m del tótem sin intentar interactuar durante 5 s, el tótem se teletransporta a una zona segura cercana al jugador para obligar la captura.
+- Añadir penalización (pérdida de puntos) si el tótem es abandonado demasiado tiempo.
+- Actualizar UI (HUD) para mostrar contadores de tótems activos y tiempo restante.
+
+---
+
 ## Verificación
 
 1. **Rotación de Mapa:**
